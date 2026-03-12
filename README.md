@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi👋, im Joel💔
 
-<!--
-**joel912/joel912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 About Me
 
-Here are some ideas to get you started:
+🎓 BCA Student @ BIT Mesra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👤 Identity: He/Him • Male
+
+💻 Passionate about Tech: Refining DSA, backend logic, and open source.
+
+🚀 Open to: Collaborating on server-side projects or scaling codebase efficiency.
+
+
+
