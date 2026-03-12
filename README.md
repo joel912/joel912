@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Welcome!&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=Hello!;Konnichiwa!;Namaste!;Hola!;Bonjour!;Hallo!" alt="Hello in multiple languages">
+</p>
 
 ## Hi👋, im Joel💔
 <p align="center">
